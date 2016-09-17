@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpecificChargeCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpecificChargeCalculator</output-path>
+    <root id="archive" name="SpecificChargeCalculator.jar">
+      <element id="module-output" name="SpecificChargeCalculator" />
+    </root>
+  </artifact>
+</component>
